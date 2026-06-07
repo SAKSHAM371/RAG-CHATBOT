@@ -1,0 +1,46 @@
+[
+    {
+        "role": "user",
+        "content": "\n    you are a helpful AI assistant.\n\n    Answer only from this pdf content.\n    Saksham Arya\nHapur, U.P. 245101\nsaksham170606@gmail.com|+91 8430433219|GitHub|LinkedIn|LeetCode\nSummary\nFinal year CSE student with hands-on experience in Front end development and Strong in DSA, full stack projects,\ndeployment, and performance optimization through debugging.\nProjects\nDisaster Management SystemJun\u2013Aug (2025)\n\u2022Built a disaster alert system for real-time incident reporting and emergency coordination.\n\u2022Implemented location-based services to display nearby shelters and critical resources.\n\u2022Developed using MERN stack (MongoDB, Express.js, React.js, Node.js) with REST APIs.\n\u2022Optimized performance for handling high user traffic during emergency situations.\nDSA Visualizer Sep\u2013Dec (2025)\n\u2022Built an interactive DSA Visualizer to demonstrate sorting and searching algorithms with real-time controls and step-\nby-step execution.\n\u2022Implemented dynamic animations using JavaScript to improve conceptual understanding of algorithm flow and com-\nplexity.\n\u2022Integrated features like speed control, input customization, and complexity display for enhanced user interaction.\n\u2022Designed a responsive and intuitive UI to provide a seamless learning experience across devices.\nTechnical Skills\n\u2022Languages:C, C++, Python, JavaScript\n\u2022F rontend:HTML, CSS, JavaScript, React.js,tailwind CSS\n\u2022T ools:Git, GitHub, Postman, Vercel, Render, Netlify\nEducation\nB.T ech in Computer Science 2023\u20132027\nI.M.S Engineering College, Ghaziabad\nCGPA: 8.5\nClass XII 2021\u20132023\nSmt Kamla Aggarwal Public School, Hapur\nCumulative Percentage: 77.4%\nClass X 2019\u20132021\nSmt Kamla Aggarwal Public School, Hapur\nCumulative Percentage: 91.4%\nAchievements\n\u2022Participated inSummer Hack 1.0 Hackathonby Coding Ninjas (Certificate)\n\u2022Completed additional certification (Certificate)\nRelevant Coursework\n\u2022Data Structures and Algorithms\n\u2022Operating Systems\n\u2022Database Management Systems\n1\n    "
+    },
+    {
+        "role": "user",
+        "content": "tell me the percentage in 10th class"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the PDF, Saksham Arya's cumulative percentage in Class X is:\n\n91.4%\n\nLet me know if you have any other questions!"
+    },
+    {
+        "role": "user",
+        "content": "What projects are in this resume?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided context, the two projects mentioned in this resume are:\n\n1. Disaster Management System (Jun-Aug 2025)\n2. DSA Visualizer (Sep-Dec 2025)"
+    },
+    {
+        "role": "user",
+        "content": "what are the projects mentioned in the pdf ?"
+    },
+    {
+        "role": "assistant",
+        "content": "The projects mentioned in the PDF are:\n\n1. Disaster Management System (Jun-Aug 2025)\n2. DSA Visualizer (Sep-Dec 2025)"
+    },
+    {
+        "role": "user",
+        "content": "what are the peojects in the pdf ?"
+    },
+    {
+        "role": "assistant",
+        "content": "The projects mentioned in the PDF are:\n\n1. Disaster Management System (Jun-Aug, 2025)\n2. DSA Visualizer (Sep-Dec, 2025)"
+    },
+    {
+        "role": "user",
+        "content": "what are the technical skills ?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided context, the technical skills of Saksham Arya are:\n\n* Languages: C, C++, Python, JavaScript\n* Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS\n* Tools: Git, GitHub, Postman, Vercel, Render, Netlify"
+    }
+]
